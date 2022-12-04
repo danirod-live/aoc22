@@ -6,3 +6,6 @@ default:
 
 02: 02.cpp 02.txt
 	g++ -o 02 02.cpp
+
+03: 03.cpp 03.txt
+	g++ -o 03 03.cpp
