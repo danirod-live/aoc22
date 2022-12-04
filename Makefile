@@ -9,3 +9,6 @@ default:
 
 03: 03.cpp 03.txt
 	g++ -o 03 03.cpp
+
+04: 04.cpp 04.txt
+	g++ -o 04 04.cpp
