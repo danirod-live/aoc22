@@ -12,3 +12,12 @@ default:
 
 04: 04.cpp 04.txt
 	g++ -o 04 04.cpp
+
+05: 05.cpp 05.txt
+	g++ -o 05 05.cpp
+
+06: 06.cpp 06.txt
+	g++ -o 06 06.cpp
+
+07: 07.cpp 07.txt
+	g++ -o 07 07.cpp
